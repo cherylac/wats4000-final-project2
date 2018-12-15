@@ -1,6 +1,6 @@
-# y
+# yes-no
 
-> y
+> Yes-No App
 
 ## Build Setup
 
